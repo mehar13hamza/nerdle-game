@@ -16,7 +16,7 @@ function GameOver() {
     <Box >
       <Typography variant="h3">
         {gameOver.guessedWord
-          ? "You Correctly Guessed the Wordle"
+          ? "You Correctly Guessed the Nerdle"
           : "You Failed to Guess the Word"}
       </Typography>
       <Typography variant="h1">Correct Word: {correctWord}</Typography>

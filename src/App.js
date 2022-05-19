@@ -36,7 +36,7 @@ function App() {
     }
     if (wordSet.has(currWord.toLowerCase())) {
       setCurrAttempt({ attempt: currAttempt.attempt + 1, letter: 0 });
-    } 
+    } else alert("word not found")
     debugger
     if (currWord === correctWord) {
       setGameOver({ gameOver: true, guessedWord: true });
