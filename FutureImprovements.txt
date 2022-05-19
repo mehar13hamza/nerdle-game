@@ -1,0 +1,3 @@
+Currently the app is SPA with frontend and core logic made with react only.
+Future Architecture of the application could be an event driven architecture with backend APIs written in node/express
+The game can have leaderboards and some asynchronous events and a NoSql or Relational Database for storing points system, leaderboards, friends etc.

@@ -1,0 +1,20 @@
+
+#correct {
+  background-color: Green;
+}
+
+#almost {
+  background-color: Blue;
+}
+
+#error {
+  background-color: red;
+}
+
+
+#big {
+  width: 100px;
+}
+#disabled {
+  background-color: black;
+}
